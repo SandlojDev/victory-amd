@@ -1,4 +1,4 @@
-[image_URL](https://github.com/myokex/victory-amd/blob/vi-fx3/ITALIA.png?raw=true)
+![image_URL](https://github.com/myokex/victory-amd/blob/vi-fx3/ITALIA.png?raw=true)
 
 # VIctory fork (work in progress)
 
